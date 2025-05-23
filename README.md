@@ -83,7 +83,7 @@ Welcome to Calendarco ("we," "us," or "our"). Calendarco is a mobile application
 
 **2. Acceptance of Terms**
 
-By downloading, installing, or using the App, you confirm that you accept these Terms and agree to comply with them. These Terms apply to all users of the App.
+By downloading, installing, or using the App, you confirm that you accept these Terms and Privacy Policy and agree to comply with them. These Terms apply to all users of the App.
 
 **3. Subscription and Billing**
 
