@@ -1,4 +1,4 @@
-### Privacy Policy for Calendarco**
+### Privacy Policy for Calendarco
 
 **Effective Date:** September 1st, 2024.
 
