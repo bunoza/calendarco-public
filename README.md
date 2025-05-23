@@ -88,7 +88,6 @@ By downloading, installing, or using the App, you confirm that you accept these 
 **3. Subscription and Billing**
 
 - **Auto-Renewable Subscriptions**: Calendarco offers monthly and yearly auto-renewable subscription plans. Payment will be charged to your Apple ID account upon confirmation of purchase.
-- **Free Trial**: New users are eligible for a 3-day free trial. If you do not cancel before the trial ends, you will be automatically charged for the chosen subscription plan.
 - **Cancellation**: You may cancel your subscription at any time through your Apple ID account settings. Cancellation will take effect at the end of the current billing period.
 - **Renewal**: Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
 
